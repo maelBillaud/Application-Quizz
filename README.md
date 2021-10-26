@@ -15,10 +15,10 @@
         Question avec plusieurs réponses (au maximum 2 réponses).
 
 #### ~ Classe YesNoQuestion (Fille de Question)
-        Question où on doit répondre par oui ou non.
+        Question à laquelle on doit répondre par oui ou non.
 
 #### ~ Classe WordQuestion (Fille de Question)
-        Question ou on doit répondre avec un mot.
+        Question à laquelle on doit répondre avec un mot.
 
 #### ~ Classe Quiz
         Contient la méthode play() qui permet de jouer au quiz en répondant aux questions.

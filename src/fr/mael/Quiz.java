@@ -22,11 +22,6 @@ public class Quiz {
     /** Quiz.scan permet de lire les réponses aux questions. */
     public static Scanner scan = new Scanner(System.in);
 
-    // -------------------------------------------------
-    // TODO : définir les attributs
-    //        programmer le constructeur et des méthodes
-    // -------------------------------------------------
-
     //Attributs
     ArrayList<Question> allQ;
 
